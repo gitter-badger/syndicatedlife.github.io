@@ -1,0 +1,14 @@
+# OSX
+.DS_Store
+
+# WebStorm
+.idea/*
+
+# NPM
+**/node_modules/*
+
+# Bower
+**/bower_components/*
+
+# Site
+lib/client/vendor/*

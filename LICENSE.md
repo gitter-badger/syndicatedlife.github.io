@@ -1,0 +1,1 @@
+Copyright © 2007 - 2014 Ryan Wilson ~ All Rights Reserved
